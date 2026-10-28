@@ -12,5 +12,5 @@ litri = (50)
 reizes = litri // 7
 atlikums = litri % 7 
 
-print("Braucienu var veikt:", reizes, "Reizes")
+print("Braucienu var veikt:", reizes, "reizes")
 print("Atstajas litri:", atlikums)
